@@ -1,0 +1,30 @@
+.College{
+    margin: 100px;
+    width: 500px;
+    margin-left: 500px;
+}
+
+.Year{
+    margin: 100px;
+    width: 500px;
+    margin-left: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Branch{
+    margin: 100px;
+    width: 500px;
+    margin-left: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    margin: 50px;
+    width: 200px;
+    left: 45%;
+    justify-content: center;
+    align-items: center;
+    
+}

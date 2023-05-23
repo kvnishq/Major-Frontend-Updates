@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "StudentName": "Kanishq Dagar",
+      "Interest": "Movies",
+      "Skills": "Many",
+      "Bio": "Kvnishqqwertyuiop",
+      "Year": "4th",
+      "Branch": "CSE",
+      "id": 1
+    },
+    {
+      "StudentName": "sher",
+      "Interest": "mohali",
+      "Skills": "kothi",
+      "Bio": "paali",
+      "Year": "geda",
+      "Branch": "sector 8 kude",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}
